@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "GenerateIndexPedigree"]
+	path = GenerateIndexPedigree
+	url = https://github.com/katelynqueen98/generateindexpedigree
